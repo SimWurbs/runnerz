@@ -1,6 +1,6 @@
 # Maven
 runnerz/target/
-!runnerz/.mvn/wrapper/maven-wrapper.jar
+
 runnerz/HELP.md
 !**/src/main/**/target/
 !**/src/test/**/target/
@@ -49,6 +49,8 @@ replay_pid*
 *.zip
 *.tar.gz
 *.rar
+
+!runnerz/.mvn/wrapper/maven-wrapper.jar
 
 ### Operating System ###
 .DS_Store
